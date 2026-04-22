@@ -1,0 +1,6 @@
+{
+  "name": "ScoutRugby: Moneyball",
+  "description": "A performance analysis platform for rugby talent scouting. Implement complex stats processing, weighted rankings, and visual comparisons for elite player identification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
